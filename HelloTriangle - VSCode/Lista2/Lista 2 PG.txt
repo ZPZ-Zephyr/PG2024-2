@@ -1,0 +1,4 @@
+Respostas - Lista 2
+
+3. Quando posicionamos objetos em uma configuração de câmera 2D, a localização desses objetos é intuitivamente mapeada para as coordenadas da tela.
+De certa maneira, os objetos são projetados nas coordenadas utilizadas, o que facilita a manipulação de posições, tornando-a mais fácil e intuitiva. 

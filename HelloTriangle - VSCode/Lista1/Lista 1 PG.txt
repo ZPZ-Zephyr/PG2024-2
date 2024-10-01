@@ -1,0 +1,16 @@
+Respostas - Lista 1
+
+1. GLSL ou OpenGL Shading Language é uma linguagem de programação, específica para escrever shaders, os quais são executados na GPU. Os quais permitem manipular a aparência de objetos gráficos em tempo real, fornecendo controle sobre a renderização.
+
+Os dois tipos de shaders obrigatórios, são Vertex Shader, os quais descrevem como tratar um vértice e Fragment Shader, os quais descrevem como tratar uma área (pixel-size).
+
+2. As primitivas gráficas são as formas básicas utilizadas para construir objetos, como por exemplo: Ponto, Linhas, Triângulos, Retângulos e Polígonos. Estes dados são armazenados no VBO.
+
+3. VBO (Vertex Buffer Object)
+Definição: Um VBO é um objeto que armazena dados de vértices (como posições, cores, normais e coordenadas de textura) na memória da GPU.
+
+VAO (Vertex Array Object)
+Definição: Um VAO é um objeto que armazena todas as configurações de estado relacionadas a VBOs e atributos de vértices.
+
+EBO (Element Buffer Object)
+Definição: Um EBO é um objeto que armazena índices para acessar os vértices em um VBO. Em vez de duplicar vértices para formar primitivas (como triângulos), você pode referenciar vértices existentes usando índices.
